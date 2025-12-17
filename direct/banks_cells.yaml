@@ -1,0 +1,18 @@
+payload:
+  - DOMAIN-SUFFIX,sberbank.ru,DIRECT
+  - DOMAIN-SUFFIX,sber.ru,DIRECT
+  - DOMAIN-SUFFIX,tinkoff.ru,DIRECT
+  - DOMAIN-SUFFIX,alfabank.ru,DIRECT
+  - DOMAIN-SUFFIX,vtb.ru,DIRECT
+  - DOMAIN-SUFFIX,raiffeisen.ru,DIRECT
+  - DOMAIN-SUFFIX,open.ru,DIRECT
+  - DOMAIN-SUFFIX,rshb.ru,DIRECT
+  - DOMAIN-SUFFIX,gazprombank.ru,DIRECT
+
+  - DOMAIN-SUFFIX,mts.ru,DIRECT
+  - DOMAIN-SUFFIX,megafon.ru,DIRECT
+  - DOMAIN-SUFFIX,beeline.ru,DIRECT
+  - DOMAIN-SUFFIX,tele2.ru,DIRECT
+  - DOMAIN-SUFFIX,rt.ru,DIRECT
+  - DOMAIN-SUFFIX,domru.ru,DIRECT
+  - DOMAIN-SUFFIX,yota.ru,DIRECT
