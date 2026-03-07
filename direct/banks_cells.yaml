@@ -16,3 +16,8 @@ payload:
   - DOMAIN-SUFFIX,rt.ru,DIRECT
   - DOMAIN-SUFFIX,domru.ru,DIRECT
   - DOMAIN-SUFFIX,yota.ru,DIRECT
+  
+  - DOMAIN-SUFFIX,max.ru,DIRECT
+  - DOMAIN-SUFFIX,ok.ru,DIRECT
+  - DOMAIN-SUFFIX,okcdn.ru,DIRECT
+  - DOMAIN-SUFFIX,oneme.ru,DIRECT
